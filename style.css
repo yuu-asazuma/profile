@@ -252,12 +252,3 @@ p {
   border: 1px solid rgba(198, 164, 106, 0.55);
   position: relative;
 }
-
-.profile-card::before {
-  content: "";
-  display: block;
-  width: 55px;
-  height: 2px;
-  background-color: #C6A46A;
-  margin: 0 auto 18px;
-}
